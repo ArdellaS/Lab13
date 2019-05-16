@@ -7,7 +7,7 @@ namespace Roshambo
     abstract class Player 
     {
         public string Name { get; set; }
-        public Roshambo RoshamboValue { get; set; }
+       
 
         public Player (string name)
         {

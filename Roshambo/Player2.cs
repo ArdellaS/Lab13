@@ -7,7 +7,7 @@ namespace Roshambo
     class Player2 : Player
     {
         private static string name;
-        private static string roshamboValue;
+       
 
         public Player2(string PlayerTwo)
             : base(name)
